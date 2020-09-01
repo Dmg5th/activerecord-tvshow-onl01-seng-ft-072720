@@ -1,0 +1,5 @@
+class CreateShows < ActiveRecord
+  
+  
+  
+end 
